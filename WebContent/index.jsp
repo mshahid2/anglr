@@ -5,7 +5,7 @@
       <script src="script.js"></script>
 </head>
 <body ng-controller="teamController">
-<h1>Angular</h1>
+<h1>Angular HotFix</h1>
 <table border="1">
 <tr>
 <th>Team Name </th>
