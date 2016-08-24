@@ -5,7 +5,7 @@
       <script src="script.js"></script>
 </head>
 <body ng-controller="teamController">
-<h1>Angular hotfix1.2</h1>
+<h1>Angular release 1.3</h1>
 <table border="1">
 <tr>
 <th>Team Name </th>
